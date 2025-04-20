@@ -11,7 +11,7 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard
-          src={https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcalculator-icon-vector-logo-template_45136729.htm&psig=AOvVaw1NZd5cURnsyZHiXQwBD2pN&ust=1745217008006000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjZu5v-5YwDFQAAAAAdAAAAABAE}
+          src={calculator.avif}
           link="https://pshiv2002.github.io/calculator-app-html-css-js"
           h3="Calculator"
           p="Calculator App"
