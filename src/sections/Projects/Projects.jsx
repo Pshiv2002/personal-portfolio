@@ -13,20 +13,20 @@ function Projects() {
         <ProjectCard
           src={viberr}
           link="https://pshiv2002.github.io/calculator-app-html-css-js"
-          h3="Viberr"
-          p="Streaming App"
+          h3="Calculator"
+          p="Calculator App"
         />
         <ProjectCard
           src={freshBurger}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Fresh Burger"
-          p="Hamburger Restaurant"
+          link="https://pshiv2002.github.io/TicTacToe"
+          h3="Tic Tac Toe "
+          p="TicTacToe Game"
         />
         <ProjectCard
           src={hipsster}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Hipsster"
-          p="Glasses Shop"
+          link="shiv-patel.netlify.app"
+          h3="Portfolio"
+          p="Personal Portfolio"
         />
         <ProjectCard
           src={fitLift}
